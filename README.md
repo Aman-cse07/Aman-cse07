@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is AMAN KUMAR.
 ====================================================================================================================================
 
-<h3 align="center">!! A passionate Full-Stack Developer !!</h3>
+<h3 align="center">!! A passionate Full-Stack Developer. !!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-cse07&label=Profile%20views&color=0e75b6&style=flat" alt="aman-cse07" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
