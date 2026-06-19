@@ -33,6 +33,10 @@ Eager to learn new technologies....
 <p align="left"> <a href="https://www.linkedin.com/in/aman-kumar-50958b296" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/1512127443857571896" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 <h3 align="left">GitHub Stats :-</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman-cse07&show_icons=true&theme=tokyonight" height="165" />
+</p>
 
-![](https://github-readme-stats.shion.dev/api?username=aman-cse07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aman-cse07&theme=dark&hide_border=false)<br/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-cse07&theme=tokyonight" />
+</p>
