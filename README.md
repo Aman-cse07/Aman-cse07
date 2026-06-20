@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Eager to learn new technologies....
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **MERN stack developer**
 
 - 🌱 I’m currently learning **Machine Learning**
 
