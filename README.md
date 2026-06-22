@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-cse07&label=Profile%20views&color=0e75b6&style=flat" alt="aman-cse07" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-Eager to learn new technologies....
+Eager to learn new technologies.....
 
 - 🔭 I’m currently working on **MERN stack developer**
 
