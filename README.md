@@ -37,7 +37,7 @@ Eager to learn new technologies.....
   <img src="https://github-readme-stats.vercel.app/api?username=aman-cse07&show_icons=true&theme=tokyonight" height="165" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-cse07&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-cse07&layout=compact&theme=tokyonight" height="170"/>
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-cse07&theme=tokyonight" />
