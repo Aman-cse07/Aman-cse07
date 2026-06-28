@@ -7,17 +7,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Eager to learn new technologies.....
 
-- 🔭 I’m currently working on **MERN stack developer**
+- 🔭 I’m currently working on **MERN stack developer**.
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**.
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**.
 
-- 🤝 I’m looking for help with **Web-Dev**
+- 🤝 I’m looking for help with **Web-Dev**.
 
-- 💬 Ask me about **Web-Dev**
+- 💬 Ask me about **Web-Dev**.
 
-- 📫 How to reach me **amankumar00573@gmail.com**
+- 📫 How to reach me **amankumar00573@gmail.com**.
 
 - ⚡ Fun fact:- **In a relationship with my IDE.**
 
