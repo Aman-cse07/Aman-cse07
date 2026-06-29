@@ -5,21 +5,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-cse07&label=Profile%20views&color=0e75b6&style=flat" alt="aman-cse07" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-Eager to learn new technologies.....
+Eager to learn new technologies...
 
-- 🔭 I’m currently working on **MERN stack developer**.
+- 🔭 I’m currently working on **MERN stack developer**
 
-- 🌱 I’m currently learning **Machine Learning**.
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**.
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **Web-Dev**.
+- 🤝 I’m looking for help with **Web-Dev**
 
-- 💬 Ask me about **Web-Dev**.
+- 💬 Ask me about **Web-Dev**
 
-- 📫 How to reach me **amankumar00573@gmail.com**.
+- 📫 How to reach me **amankumar00573@gmail.com**
 
-- ⚡ Fun fact:- **In a relationship with my IDE.**
+- ⚡ Fun fact:- **In a relationship with my IDE**
 
 <h3 align="left">Social :-</h3>
 <p align="left">
@@ -37,7 +37,7 @@ Eager to learn new technologies.....
   <img src="https://github-readme-stats.vercel.app/api?username=aman-cse07&show_icons=true&theme=tokyonight" height="165" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-cse07&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-cse07&layout=compact&theme=tokyonight" height="165"/>
 </p>
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-cse07&theme=tokyonight" />
